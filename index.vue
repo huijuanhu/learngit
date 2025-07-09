@@ -2,7 +2,7 @@
   <div>
     <h1>My Vue App</h1>
     <p>{{ message }}</p>
-    <button @click="changeMessage"> Message</button>
+    <button @click="changeMessage"> Mess点点滴滴age</button>
   </div>
 </template>
 
